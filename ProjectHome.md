@@ -1,0 +1,1 @@
+It's a platform which will provide RESTFUL interface, integrate some open-source software (e.g. hadoop,hbase,mahout, etc.),and contain some base modules (e.g. search,recommendation etc.).
